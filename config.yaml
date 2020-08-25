@@ -1,4 +1,5 @@
-baseURL: https://www.sambaderiga.lv/
+#baseURL: https://www.sambaderiga.lv/
+baseURL: https://rfvermut.github.io/
 languageCode: lv-lv
 title: Samba de Riga
 theme: [ananke, gallery]
@@ -12,8 +13,6 @@ languages:
     languageName: Русский
     params:
       description: Отвязные перкуссионисты
-
-
 
 sitemap:
   changefreq: monthly
