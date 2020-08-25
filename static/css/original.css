@@ -1,0 +1,58 @@
+html, body
+{
+  font-family:'Ubuntu', sans-serif;
+}
+
+
+.content
+{
+  color:white;
+  max-width:840px;
+  padding:0 30px;
+  margin:0 auto;
+  
+}
+
+.section, .cover
+{
+  background:url(../images/section-shadow.png) 50% 0 no-repeat;
+}
+
+.section > .content
+{
+  padding:44px 0 54px 0;
+}
+
+.orange
+{
+  background-color:#EF7803;
+}
+
+.green
+{
+  background-color:#81A907;
+}
+
+.blue
+{
+  background-color:#0D88C2;
+}
+
+.section h2
+{
+  font-size:24px;
+  text-shadow:1px 1px 1px rgba(0,0,0,.5);
+  float:left;
+}
+
+.section .text
+{
+  padding:0 0 0 40%;
+  font-size:17px;
+  line-height:24px;
+}
+.section .text blockquote
+{
+  padding:35px 0 0 0;
+  font-weight:bold;
+}

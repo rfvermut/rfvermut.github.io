@@ -1,0 +1,31 @@
+baseURL: https://www.sambaderiga.lv/
+languageCode: lv-lv
+title: Samba de Riga
+theme: [ananke, gallery]
+
+DefaultContentLanguage: lv
+languages:
+  lv:
+    languageName: Latviski
+  ru:
+    title: Самба Де Рига
+    languageName: Русский
+    params:
+      description: Отвязные перкуссионисты
+
+
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  site_logo: /images/samba-de-riga.png
+  youtube: https://www.youtube.com/watch?v=b4gM1I7Yh7c&list=PL9DKtU1hLdk-JWlDj9-Mh-y1r5S8TMApu
+  facebook: https://www.facebook.com/SambaDeRiga
+  twitter: https://twitter.com/Samba_de_Riga
+  description: Perkusatīvā grupa, kas izpilda afro-brazīliešu ritmus uz autentiskajām brazīliešu bungām
+  background_color_class: bg-near-white
+  body_classes: athelas
+  custom_css: [css/original.css]
